@@ -1,2 +1,3 @@
 firstaddedbyremoterepoline
+pull conflict
 second line
